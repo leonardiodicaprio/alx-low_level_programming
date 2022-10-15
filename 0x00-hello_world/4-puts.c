@@ -1,20 +1,16 @@
-nes (11 sloc)  184 Bytes
-
-
-
-#include <stdio.h>
+#include<stdio.h>
 
 
 
 /**
  *
- *   * main - Prints a text
+ * * main - Entry point
  *
- *     *
+ * *
  *
- *       * Return: Always 0 (Success)
+ * * Return: Always 0 (Success)
  *
- *         */
+ * */
 
 int main(void)
 
@@ -25,3 +21,5 @@ int main(void)
 			return (0);
 
 }
+
+
